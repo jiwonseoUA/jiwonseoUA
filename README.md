@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiwonseoUA
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning CS445, CS346, CS335
+- 🌱 I’m currently learning CS452(OS), CSC372(Various language-Ruby, prolog, ML), CSC380(Machine Learning), CSC460(database)
 - 💞️ I’m looking to collaborate on any kinds of work related to Computer Science.
 - 📫 How to reach me jiwonseo@email.ariozna.edu
 
